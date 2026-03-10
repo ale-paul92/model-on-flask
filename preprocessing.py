@@ -6,6 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
 import pickle
+#import pickle
 
 # Load dataset
 file_path = os.path.join("C:", "Users", "Asus", "Desktop", "Suven", "practise_DS", "adult.csv")
